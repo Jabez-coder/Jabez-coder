@@ -4,6 +4,8 @@
   <em>Front-End Web Developer | ALX Software Engineering Learner | Passionate About Creative Tech Solutions</em>
 </p>
 
+---
+
 ## 🚀 About Me
 
 🎓 I'm currently a learner at the <strong>ALX Front-End Web Development Program</strong>, building a solid foundation in:
@@ -20,7 +22,9 @@
 
 - 📈 Growing in my front-end development career  
 - 🤝 Connecting with professionals globally  
-- 🌱 Giving back and inspiring my community through tech  
+- 🌱 Giving back and inspiring my community through tech
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -32,6 +36,8 @@
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white" />
 </p>
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -40,11 +46,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabez-coder&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
+
 ## 🌍 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jabez-topha-655b7230b)  
 - 📧 Email: [tophajabez@gmail.com](mailto:tophajabez@gmail.com)  
 - 💬 I love networking and collaborating with fellow devs, designers, and creatives!
+
+---
 
 ## ✨ Fun Fact
 
